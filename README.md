@@ -28,6 +28,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50">&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="50" height="50">&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="ElasticSearch" width="50" height="50">&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/pola-rs/polars/main/logo/polars_logo.svg" alt="Polars" width="50" height="50">&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/w3c/beautifulsoup/master/logo/beautifulsoup_logo.svg" alt="Beautiful Soup" width="50" height="50">&nbsp;&nbsp;&nbsp;
 </p>
