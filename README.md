@@ -4,7 +4,7 @@
 - 🔭 I just spent my summer at Beach Point Capital Management as an AI Technology Intern.
 - 🌱 At the moment, I am really interested in Quantitative Momentum, Retrieval-Augmented Generation, and AI applications.
 - 👯 I’m looking to collaborate on any Quantitative or Finance-related projects!
-- 📫 Reach me here on GitHub or at: [LinkedIn](https://www.linkedin.com/in/maxplush/)
+- 📫 Reach me here on GitHub or on my [LinkedIn](https://www.linkedin.com/in/maxplush/)
 
 <h1 align="center">My tech stack includes:</h1>
 
